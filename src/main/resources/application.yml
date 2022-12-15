@@ -5,6 +5,6 @@ spring:
     name: missing-digit
 
 server:
-  port: 9000
+  port: 9001
   servlet:
     context-path: /missingdigit
